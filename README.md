@@ -121,6 +121,3 @@ admin@123
 ```bash
 sudo ./install.sh --uninstall
 ```
-
-
-MIT
