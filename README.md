@@ -55,7 +55,7 @@ git clone https://github.com/<your-username>/tomcat-installer.git
 Move into the project:
 
 ```bash
-cd tomcat-installer
+cd tomcat_installation
 ```
 
 Make the script executable:
