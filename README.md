@@ -122,14 +122,5 @@ admin@123
 sudo ./install.sh --uninstall
 ```
 
----
-
-## Screenshots
-
-(Add screenshots here.)
-
----
-
-## License
 
 MIT
